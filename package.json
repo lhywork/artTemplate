@@ -15,7 +15,6 @@
   "main": "./node/template.js",
   "version": "3.0.3",
   "devDependencies": {
-    "express": "~4.4.3",
     "grunt-cli": "*",
     "grunt": "*",
     "grunt-contrib-jshint": "*",
